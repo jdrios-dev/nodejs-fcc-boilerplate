@@ -4,12 +4,12 @@
 	"dependencies": {
 		"express": "^4.14.0"
 	},
-	"main": "index.js",
+	"main": "app.js",
 	"scripts": {
-		"start": "node index.js"
+		"start": "node app.js"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://idontknow/todo.git"
+		"url": "https://github.com/jdrios-dev/nodejs-fcc-boilerplate"
 	}
 }
